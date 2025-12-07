@@ -3,3 +3,4 @@ ultralytics==8.0.196
 opencv-python-headless==4.7.0.72
 numpy
 Pillow
+scikit-image
